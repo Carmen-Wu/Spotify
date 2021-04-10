@@ -1,4 +1,3 @@
-# Spotify
 Original App Design Project - README Template
 ===
 
@@ -29,15 +28,13 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-
-*User can login
-*Authencicate the existing account
-*Users can make a new account
-*Users can choose what to access(Mood, Properties, Context)
-*User can access the mood of the songs on their playlist 
-*User can view their profile
-*User can create a post related to the current music they are listening to and link the song/playlist
+* User can login
+* Authencicate the existing account
+* Users can make a new account
+* Users can choose what to access(Mood, Properties, Context)
+* User can access the mood of the songs on their playlist 
+* User can view their profile
+* User can create a post related to the current music they are listening to and link the song/playlist
 
 
 
@@ -51,14 +48,13 @@ Original App Design Project - README Template
 ### 2. Screen Archetypes
 
 * Login
-   * [list associated required story here]
    * user can login
 * Register a new account
    * user can register a new account 
    *Profile
    * User can scroll through their own profile
    *Creation
-   User can add a piece of information 
+   * User can add a piece of information 
    *Detail 
    * User can view the detailed features of each playlist 
    
